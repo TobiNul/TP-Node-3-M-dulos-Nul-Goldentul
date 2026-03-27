@@ -1,0 +1,21 @@
+{
+  "name": "tp-node-3-m-dulos-nul-goldentul",
+  "version": "1.0.0",
+  "description": "la banda pa",
+  "homepage": "https://github.com/TobiNul/TP-Node-3-M-dulos-Nul-Goldentul#readme",
+  "bugs": {
+    "url": "https://github.com/TobiNul/TP-Node-3-M-dulos-Nul-Goldentul/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TobiNul/TP-Node-3-M-dulos-Nul-Goldentul.git"
+  },
+  "license": "ISC",
+  "author": "Tobías Nul y Tomás Goldentul",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
