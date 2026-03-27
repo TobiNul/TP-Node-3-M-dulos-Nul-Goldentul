@@ -12,9 +12,10 @@
   },
   "license": "ISC",
   "author": "Tobías Nul y Tomás Goldentul",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
+     "ej01": "node src/ej01.js",
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
